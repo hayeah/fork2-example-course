@@ -1,0 +1,8 @@
+{ "title": "An Example Course"
+, "schedule":
+  [ "the-first-lesson.md"
+  , "the-second-lesson.md"
+  , "the-second-lesson.md"
+  , "the-third-lesson.md"
+  ]
+}
